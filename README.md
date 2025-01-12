@@ -1,2 +1,2 @@
-# Sewstainabilty
+# Sewstainability
 Bigger and better
